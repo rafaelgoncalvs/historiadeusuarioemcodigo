@@ -2,12 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eca5d99-1cc1-417c-a02d-8cac7cbd1695" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePreco.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoHttp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoRepositorio.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/ComandoDeAdesaoAAtaDeRegistroDePreco.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/ServicoDeAdesaoAAtaDeRegistroDePreco.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAtaHttp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAtaRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAtaResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/Escola.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/SecretariaDeEducacao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/SecretariaDeEducacaoRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/StatusDaAdesaoAAta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/AtaDeRegistroDePreco.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/AtaDeRegistroDePrecoRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/Escola.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/EscolaRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SecretariaDeEducacao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SecretariaDeEducacaoRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaHttp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/AtaDeRegistroDePreco.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/AtaDeRegistroDePrecoRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/Escola.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/EscolaRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SecretariaDeEducacao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SecretariaDeEducacaoRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaHttp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/AtaDeRegistroDePreco.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/AtaDeRegistroDePrecoRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/ComandoDeSolicitacaoDeAdesaoAAta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/Escola.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/EscolaRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SecretariaDeEducacao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SecretariaDeEducacaoRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/ServicoDeSolicitacaoDeAdesaoAAta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SolicitacaoDeAdesaoAAta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SolicitacaoDeAdesaoAAtaHttp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SolicitacaoDeAdesaoAAtaRepositorio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SolicitacaoDeAdesaoAAtaResource.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePreco.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePrecoHttp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePrecoRepositorio.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePrecoResource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/ComandoDeAdesaoAAtaDeRegistroDePreco.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/ServicoDeAdesaoAAtaDeRegistroDePreco.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePreco.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoHttp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoRepositorio.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoResource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/ComandoDeAdesaoAAtaDeRegistroDePreco.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/ServicoDeAdesaoAAtaDeRegistroDePreco.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodepreco/ContratoDaAtaDeRegistroDePrecoResource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ComandoDeCriacaoDaAtaDeRegistroDePreco.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ContratoDaAtaDeRegistroDePreco.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ContratoDaAtaDeRegistroDePrecoHttp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ContratoDaAtaDeRegistroDePrecoRepositorio.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ContratoDaAtaDeRegistroDePrecoResource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ServicoDeCriacaoDoContratoDaAtaDeRegistroDePreco.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/escola/Escola.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/ataderegistrodepreco/AtaDeRegistroDePreco.java" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AtaDeRegistroDePreco.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/ataderegistrodepreco/AtaDeRegistroDePrecoRepositorio.java" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AtaDeRegistroDePrecoRepositorio.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/escola/EscolaRepositorio.java" afterPath="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/EscolaRepositorio.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,98 +78,13 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContratoDaAtaDeRegistroDePrecoResource.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodepreco/ContratoDaAtaDeRegistroDePrecoResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdesaoAAtaDeRegistroDePrecoResource.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePrecoResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdesaoAAtaDeRegistroDePrecoHttp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoHttp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdesaoAAtaDeRegistroDePrecoResource.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ComandoDeAdesaoAAtaDeRegistroDePreco.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/ComandoDeAdesaoAAtaDeRegistroDePreco.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServicoDeAdesaoAAtaDeRegistroDePreco.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/ServicoDeAdesaoAAtaDeRegistroDePreco.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="86" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="26" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdesaoAAtaDeRegistroDePrecoRepositorio.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoRepositorio.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdesaoAAtaDeRegistroDePreco.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePreco.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -126,53 +99,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ServicoDeAdicaoDaAtaDeRegistroDePrecoDaEscola.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AdicionarAtaDeRegistroDePrecoDaEscola.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ControladorDaAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AtaDeRegistroDePrecoDaEscola.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RepositorioDaAtaDeRegistroDePrecoDaEscola.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/AtaDeRegistroDePrecoDaEscolaHttp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ModeloAtaDeRegistroDePrecoDaEscola.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ControladorDaAtaDeRegistroDePrecoDaEscola.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AtaDeRegistroDePrecoDaEscolaModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SolicitacaoDeAdesaoAAtaDeRegistroDePrecoRepositorio.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SolicitaAdesaoAAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RepositorioDaAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ServicoQueSolicitaAdesaoAAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ComandoDeSolicitacaoDeAdesaoAAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/EscolaRepositorio.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Escola.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AdesaoAAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AdesaoAAtaDeRegistroDePrecoRepositorio.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ServicoDeAdesaoAAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AdesaoAAtaDeRegistroDePrecoHttp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AtaDeRegistroDePrecoDaEscolaCtrl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AdesaoAAtaDeRegistroDePrecoResource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AtaDeRegistroDePrecoDaEscolaResource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ContratoDaAtaDeRegistroDePrecoHttp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ContratoDaAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ContratoDaAtaDeRegistroDePrecoRepositorio.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ComandoDeCriacaoDaAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ServicoDeCriacaoDoContratoDaAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ContratoDaAtaDeRegistroDePrecoResource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/contratodaataderegistrodepreco/ServicoDeCriacaoDoContratoDaAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/AtaDeRegistroDePrecoDaEscolaResource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/ServicoDeCriacaoDoContratoDaAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodepreco/ServicoDeCriacaoDoContratoDaAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodepreco/ComandoDeCriacaoDaAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/ServicoDeAdesaoAAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/ComandoDeAdesaoAAtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/ataderegistrodepreco/AtaDeRegistroDePreco.java" />
-        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/escola/EscolaRepositorio.java" />
-        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecoruim/contratodaataderegistrodepreco/ContratoDaAtaDeRegistroDePreco.java" />
         <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecoruim/ContratoDaAtaDeRegistroDePreco.java" />
         <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecoruim/ContratoDaAtaDeRegistroDePrecoResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodepreco/ContratoDaAtaDeRegistroDePrecoResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePreco.java" />
         <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/SecretariaDeEducacao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/SecretariaDeEducacaoRepositorio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/StatusDaAdesaoAta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/SolicitacaoDeAdesaoAAtaDeRegistroDePreco.java" />
         <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePrecoResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/SolicitacaoDeAdesaoAAtaDeRegistroDePrecoRepositorio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/StatusDaAdesaoAta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/adesaoaataderegistrodeprecov2/ServicoDeAdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaDeRegistroDePrecoRepositorio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/SolicitacaoDeAdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/escola/Escola.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/EscolaRepositorio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/ComandoDeAdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/EscolaRepositorio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/AtaDeRegistroDePrecoRepositorio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/EscolaRepositorio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/ServicoDeAdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/Escola.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/AdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/Escola.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SecretariaDeEducacao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/AdesaoAAtaDeRegistroDePrecoHttp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaDeRegistroDePrecoHttp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/AdesaoAAtaDeRegistroDePrecoResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SecretariaDeEducacao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAtaDeRegistroDePrecoResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/SolicitacaoDeAdesaoAAta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/Escola.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/AdesaoAAtaDeRegistroDePrecoResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/ServicoDeAdesaoAAtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/ServicoDeSolicitacaoDeAdesaoAAta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/ServicoDeSolicitacaoDeAdesaoAAta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/adesaoaataderegistrodeprecov1/AtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/AtaDeRegistroDePreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/SolicitacaoDeAdesaoAAtaResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAtaResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAta.java" />
       </list>
     </option>
   </component>
@@ -192,8 +169,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -267,8 +244,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -294,38 +271,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -336,126 +281,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contratodaataderegistrodeprecorefatorado" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contratodaataderegistrodepreco" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adesaoaataderegistrodeprecorefatorado" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="historiadeusuarioemcodigo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adesaoaataderegistrodepreco" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -470,15 +295,21 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projetos\historiadeusuarioemcodigo\src\main\java\historiadeusuarioemcodigo\adesaoaataderegistrodeprecov2" />
+      <recent name="D:\Projetos\historiadeusuarioemcodigo\src\main\java\historiadeusuarioemcodigo\adesaoaataderegistrodeprecov3" />
+      <recent name="AtaDeRegistroDePreco AtaDeRegistroDePrecoRepositorioAtaDeRegistroDePreco AtaDeRegistroDePrecoRepositorio" />
+      <recent name="AtaDeRegistroDePreco AtaDeRegistroDePrecoRepositorio" />
+      <recent name="D:\Projetos\historiadeusuarioemcodigo\src\main\java\historiadeusuarioemcodigo\adesaoaataderegistrodeprecov1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="historiadeusuarioemcodigo.adesaoaataderegistrodeprecov3" />
+      <recent name="historiadeusuarioemcodigo.adesaoaataderegistrodeprecov2" />
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\rafael_projetos\historiadeusuarioemcodigo\src\main\java\historiadeusuarioemcodigo\adesaoaataderegistrodeprecorefatorado" />
-      <recent name="D:\Projetos\historiadeusuarioemcodigo\src\main\java\historiadeusuarioemcodigo\contratodaataderegistrodeprecoruim" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="historiadeusuarioemcodigo.adesaoaataderegistrodepreco" />
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -499,6 +330,61 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -603,26 +489,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="historiadeusuarioemcodigo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -782,53 +648,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="historiadeusuarioemcodigo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="historiadeusuarioemcodigo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="historiadeusuarioemcodigo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -871,19 +690,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="historiadeusuarioemcodigo" />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -906,42 +712,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="historiadeusuarioemcodigo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="historiadeusuarioemcodigo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -955,47 +725,47 @@
       <updated>1499908177730</updated>
       <workItem from="1499908188705" duration="7408000" />
       <workItem from="1499980000110" duration="2662000" />
+      <workItem from="1499994013642" duration="14475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10070000" />
+    <option name="totallyTimeSpent" value="24545000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12526652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29954615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1005,7 +775,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1013,139 +785,255 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodepreco/ContratoDaAtaDeRegistroDePrecoResource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/StatusDaAdesaoAAta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/AdesaoAAtaDeRegistroDePreco.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AtaDeRegistroDePrecoDaEscolaCtrl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/AtaDeRegistroDePrecoDaEscolaModel.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/AtaDeRegistroDePrecoDaEscolaResource.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/AtaDeRegistroDePrecoDaEscolaRepositorio.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/AtaDeRegistroDePrecoDaEscolaHttp.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/AdicionarAtaDeRegistroDePrecoDaEscola.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ContratoDaAtaDeRegistroDePreco.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/AdesaoAAtaDeRegistroDePrecoHttp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ContratoDaAtaDeRegistroDePrecoHttp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/AdesaoAAtaDeRegistroDePrecoRepositorio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ContratoDaAtaDeRegistroDePrecoRepositorio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ServicoDeCriacaoDoContratoDaAtaDeRegistroDePreco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ComandoDeCriacaoDaAtaDeRegistroDePreco.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaRepositorio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePreco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePrecoHttp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/ServicoDeAdesaoAAtaDeRegistroDePreco.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/ServicoDeAdesaoAAtaDeRegistroDePreco.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/ComandoDeAdesaoAAtaDeRegistroDePreco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/ataderegistrodepreco/AtaDeRegistroDePrecoRepositorio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/ataderegistrodepreco/AtaDeRegistroDePreco.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/SolicitacaoDeAdesaoAAtaDeRegistroDePreco.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/escola/Escola.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/EscolaRepositorio.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AtaDeRegistroDePrecoRepositorio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AtaDeRegistroDePreco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAtaRepositorio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/ComandoDeAdesaoAAtaDeRegistroDePreco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/escola/EscolaRepositorio.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/ServicoDeSolicitacaoDeAdesaoAAtaDeRegistroDePreco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="86" lean-forward="false" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/EscolaRepositorio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/Escola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaDeRegistroDePreco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaDeRegistroDePrecoRepositorio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/ComandoDeSolicitacaoDeAdesaoAAta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaHttp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SecretariaDeEducacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SecretariaDeEducacaoRepositorio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/AtaDeRegistroDePrecoRepositorio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/AtaDeRegistroDePrecoDaEscola.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecoruim/ComandoDeCriacaoDaAtaDeRegistroDePreco.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecoruim/ContratoDaAtaDeRegistroDePrecoHttp.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecoruim/ContratoDaAtaDeRegistroDePrecoRepositorio.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecoruim/ContratoDaAtaDeRegistroDePreco.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecoruim/ServicoDeCriacaoDoContratoDaAtaDeRegistroDePreco.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodeprecorefatorado/ContratoDaAtaDeRegistroDePrecoResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePrecoRepositorio.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/AtaDeRegistroDePreco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/Escola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SolicitacaoDeAdesaoAAtaHttp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/AtaDeRegistroDePreco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SolicitacaoDeAdesaoAAtaRepositorio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/AtaDeRegistroDePrecoRepositorio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SecretariaDeEducacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SecretariaDeEducacaoRepositorio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -1153,7 +1041,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoHttp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/Escola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/EscolaRepositorio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1161,7 +1059,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/ComandoDeAdesaoAAtaDeRegistroDePreco.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SolicitacaoDeAdesaoAAta.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1169,7 +1067,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoRepositorio.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/AdesaoAAtaDeRegistroDePreco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/StatusDaAdesaoAAta.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1177,7 +1083,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePreco.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaRepositorio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1185,36 +1091,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/AdesaoAAtaDeRegistroDePrecoResource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SecretariaDeEducacaoRepositorio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/contratodaataderegistrodepreco/ContratoDaAtaDeRegistroDePrecoResource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SecretariaDeEducacao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaHttp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/AtaDeRegistroDePreco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/AtaDeRegistroDePrecoRepositorio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/Escola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAtaResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecorefatorado/ServicoDeAdesaoAAtaDeRegistroDePreco.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov1/AdesaoAAta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="86" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="26" selection-end-column="86" />
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodepreco/AdesaoAAtaDeRegistroDePrecoResource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov2/SolicitacaoDeAdesaoAAtaResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="66" lean-forward="true" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov3/SolicitacaoDeAdesaoAAtaResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/ServicoDeSolicitacaoDeAdesaoAAta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/historiadeusuarioemcodigo/adesaoaataderegistrodeprecov4/SolicitacaoDeAdesaoAAtaResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
